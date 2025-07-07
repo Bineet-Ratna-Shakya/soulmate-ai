@@ -311,19 +311,3 @@ for episode in range(num_episodes):
 
 ---
 
-## Contributing
-
-1. Fork the repo and create a feature branch.
-2. Follow the code structure and style of existing modules.
-3. Add docstrings and comments for clarity.
-4. Submit a pull request with a clear description.
-
----
-
-## License
-
-MIT License (or your chosen license).
-
----
-
-**This README is a living document. Please update it as the codebase evolves!**
